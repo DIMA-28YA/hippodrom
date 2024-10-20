@@ -1,0 +1,10 @@
+2024-10-20 02:53:33,979-{yyyy-MM-dd HH:mm:ss.SSS} 21evel [main] [21] - Start of the race. Number of participants: 7
+2024-10-20 03:08:19,654-{yyyy-MM-dd HH:mm:ss.SSS} 37evel [main] [37] - Horse object was created: Name [Bucephalus]: Speed[2.4], Distance [0.0}
+2024-10-20 03:08:19,656-{yyyy-MM-dd HH:mm:ss.SSS} 37evel [main] [37] - Horse object was created: Name [Ace of Spades]: Speed[2.5], Distance [0.0}
+2024-10-20 03:08:19,657-{yyyy-MM-dd HH:mm:ss.SSS} 37evel [main] [37] - Horse object was created: Name [Zephyr]: Speed[2.6], Distance [0.0}
+2024-10-20 03:08:19,657-{yyyy-MM-dd HH:mm:ss.SSS} 37evel [main] [37] - Horse object was created: Name [Blaze]: Speed[2.7], Distance [0.0}
+2024-10-20 03:08:19,657-{yyyy-MM-dd HH:mm:ss.SSS} 37evel [main] [37] - Horse object was created: Name [Lobster]: Speed[2.8], Distance [0.0}
+2024-10-20 03:08:19,657-{yyyy-MM-dd HH:mm:ss.SSS} 37evel [main] [37] - Horse object was created: Name [Pegasus]: Speed[2.9], Distance [0.0}
+2024-10-20 03:08:19,658-{yyyy-MM-dd HH:mm:ss.SSS} 37evel [main] [37] - Horse object was created: Name [Cherry]: Speed[3.0], Distance [0.0}
+2024-10-20 03:08:19,659-{yyyy-MM-dd HH:mm:ss.SSS} 21evel [main] [21] - Start of the race. Number of participants: 7
+2024-10-20 03:08:40,248-{yyyy-MM-dd HH:mm:ss.SSS} 31evel [main] [31] - End of the race. Winner is Lobster
